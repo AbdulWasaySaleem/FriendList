@@ -1,0 +1,29 @@
+# FriendList App
+## Project Overview
+### Duration: November 25, 2023 - November 26, 2023
+
+During this revision, I aimed to reinforce my understanding of the MERN stack, particularly Tailwind CSS. Having temporarily paused project development 
+due to exams, I decided to create a simple CRUD app to solidify my skills. This project encompasses essential features like Create, Read, Update, and Delete operations.
+
+## Features
+
+- **Create:** Add friends with their name, birthDate, photo, and an optional description.
+- **Read:** View the list of friends with their details.
+- **Update:** Modify friend details, including name, birthday, photo, and description.
+- **Delete:** Remove friends from the list.
+
+## Project Details
+
+This app allows users to manage a list of friends, each having a name, birthday, and an optional description. 
+Additionally, users can upload a photo for each friend.
+
+I utilized the MERN stack (MongoDB, Express, React, Node.js) for the backend, and Tailwind CSS for styling.
+
+## Learning Outcomes
+
+- Reinforced MERN stack concepts.
+- Gained proficiency in Tailwind CSS for modern and responsive styling.
+- Implemented CRUD operations for a more comprehensive understanding of backend development.
+
+Feel free to explore the app and provide feedback for further improvements.
+
